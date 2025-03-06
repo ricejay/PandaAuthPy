@@ -11,7 +11,7 @@ pip install PandaAuthPy
 ## Usage
 Import the module and create an instance of `PandaAuth`:
 ```python
-from PandaAuth import PandaAuth
+from PandaAuthPy import PandaAuth
 
 auth = PandaAuth()
 ```
