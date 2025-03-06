@@ -12,7 +12,7 @@ import requests
 import hashlib
 import json
 
-class PandaAuthPy:
+class PandaAuth:
     def __init__(self):
         pass
     
